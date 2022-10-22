@@ -20,8 +20,7 @@
 
 “The result is {قيمة ال area}”
 
-Bonus ✨:
-
+## Bonus ✨:
 اكتب print statement تطبع الآتي:
 
 “If the length of the rectangle is 5, and width is 3, then the area is 15”
