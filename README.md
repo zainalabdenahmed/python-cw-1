@@ -1,7 +1,7 @@
 # first-task
 1. قم بعمل fork للـ repository
 2. افتح الـ repository باستخدام github desktop
-3.
+
 3. غير ال  print statement لتستخدم عملية جمع داخلها ليكون الناتج ٨
 
 4. اكتب print statement تستخدم بداخلها عملية قسمة
