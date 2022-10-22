@@ -1,22 +1,22 @@
 # first-task
 
 
-⋅⋅* قم بعمل fork للـ repository
-⋅⋅* افتح الـ repository باستخدام github desktop
+- قم بعمل fork للـ repository
+- افتح الـ repository باستخدام github desktop
 
-⋅⋅* غير ال  print statement لتستخدم عملية جمع داخلها ليكون الناتج ٨
+- غير ال  print statement لتستخدم عملية جمع داخلها ليكون الناتج ٨
 
-⋅⋅* اكتب print statement تستخدم بداخلها عملية قسمة
+- اكتب print statement تستخدم بداخلها عملية قسمة
 
-⋅⋅* اكتب print statement تستخدم بداخلها عملية ضرب
+- اكتب print statement تستخدم بداخلها عملية ضرب
 
-⋅⋅* اكتب variable واعطه الاسم length وضع له قيمة
+- اكتب variable واعطه الاسم length وضع له قيمة
 
-⋅⋅* اكتب variable واعطه الاسم width وضع له قيمة
+- اكتب variable واعطه الاسم width وضع له قيمة
 
-⋅⋅* اكتب variable واعطه الاسم area واجعل قيمته حاصل ضرب length و width 
+- اكتب variable واعطه الاسم area واجعل قيمته حاصل ضرب length و width 
 
-⋅⋅* اكتب print statement تعرض ال area بهذه الطريقة:
+- اكتب print statement تعرض ال area بهذه الطريقة:
 
 “The result is {قيمة ال area}”
 
