@@ -15,9 +15,12 @@
 8. اكتب variable واعطه الاسم area واجعل قيمته حاصل ضرب length و width 
 
 9. اكتب print statement تعرض ال area بهذه الطريقة:
+
 “The result is {قيمة ال area}”
 
-Bonus:
-اكتب print statement تطبع الآتي: 
+Bonus ✨:
+اكتب print statement تطبع الآتي:
+
 “If the length of the rectangle is 5, and width is 3, then the area is 15”
+
 لا تنسى استبدال الارقام بال variables الذي تحمل قيمتهم
