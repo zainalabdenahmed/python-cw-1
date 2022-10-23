@@ -1,3 +1,4 @@
+<div dir=rtl> 
 # first-task
 
 
@@ -26,3 +27,4 @@
 “If the length of the rectangle is 5, and width is 3, then the area is 15”
 
 لا تنسى استبدال الارقام بال variables الذي تحمل قيمتهم
+</div>
