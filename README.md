@@ -46,6 +46,9 @@
 - استخدم print statements لتطبع قصة كاملة مستخدمًا ال variables الذي ادخل المستخدم قيمتهم
  ##### تلميح: تستطيع استخدام اكثر من print statement واحدة لكتابة القصة على شكل اسطر
  الـ output يجب ان يكون بهذا الشكل:
+ 
+ <div>
+  
  ```
 Mad libs where libs get mad.
 Start below:
@@ -63,5 +66,7 @@ I opened the door and there was a box full of dolls with a note saying "From Mr.
 Just as I closed the door I heard a scream "THE FUTURE IS MADE OF DOLLS."
 I froze in place and all I could do was shake my head.
  ```
+  
+ </div>
  
 </div>
