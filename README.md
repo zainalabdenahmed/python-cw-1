@@ -9,8 +9,8 @@
   
   
   
-- قم بعمل fork للـ repository
-- قم بعمل clone للـ repository
+- حمل الـ repository (هذا الفولدر)
+- افتح الملف في VS Code
 - افتح ملف main.py
 - اكتب print statement تطبع اسمك
 - غير ال  print statement لتستخدم عملية جمع داخلها ليكون الناتج ٨
